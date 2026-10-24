@@ -1,2 +1,2 @@
 # C-Programming
-My C programs as a brginner
+My C programs as a beginner
